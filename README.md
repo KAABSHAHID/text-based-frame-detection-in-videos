@@ -1,4 +1,4 @@
-# text-based-frame-detection
+# Text Prompt Based Frame Detection in a Video
 
 ## Overview
 This project enables the processing of videos by converting them into frames, enhancing the resolution using ESRGAN, and using CLIP to identify objects or specific events described by a text prompt. It is particularly useful in applications like security surveillance, video analysis, and content filtering, where identifying specific objects or people in low-resolution videos is crucial.  
