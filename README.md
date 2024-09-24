@@ -1,11 +1,11 @@
 # Text Prompt Based Frame Detection in a Video
 
 ## Overview
-This project enables the processing of videos by converting them into frames, enhancing the resolution using ESRGAN, and using CLIP to identify objects or specific events described by a text prompt. It is particularly useful in applications like security surveillance, video analysis, and content filtering, where identifying specific objects or people in low-resolution videos is crucial.  
+This project enables the processing of videos by converting them into frames, enhancing the resolution using **ESRGAN**, and using **CLIP** to identify objects or specific events described by a text prompt. It is particularly useful in applications like security surveillance, video analysis, and content filtering, where identifying specific objects or people in low-resolution videos is crucial.  
 The project workflow consists of the following key steps:  
 1. `Extract frames` from a video at a reduced frame rate (4 FPS).  
-2. `Enhance the resolution` of these frames using ESRGAN (Enhanced Super-Resolution GAN).  
-3. `Detect objects or events` in the frames by matching them with a text prompt using CLIP.  
+2. `Enhance the resolution` of these frames using a generative model **ESRGAN (Enhanced Super-Resolution GAN)**.  
+3. `Detect objects or events` in the frames by matching them with a text prompt using **CLIP**.  
 4. `Return the timestamp` and the best matching frame for the given prompt.  
 
 ## Applications  
