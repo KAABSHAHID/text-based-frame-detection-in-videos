@@ -80,7 +80,7 @@ python detection.py --video vids/robbing.mp4 --prompt "two robbers opening a doo
 
 ## Acknowledgments  
 
-This project relies on the outstanding contributions made by the creators of [ESRGAN](https://github.com/xinntao/ESRGAN) and [CLIP](https://github.com/openai/CLIP). We would like to acknowledge their impactful research and open-source contributions.  
+This project relies on the outstanding contributions made by the creators of [ESRGAN](https://github.com/xinntao/ESRGAN) and [CLIP](https://github.com/openai/CLIP). I would like to acknowledge their impactful research and open-source contributions.  
 
 - **[ESRGAN (Enhanced Super-Resolution Generative Adversarial Networks)](https://github.com/xinntao/ESRGAN)**:  
    - Citation:  
